@@ -60,6 +60,7 @@ timetrain= toc;
 tic;
 yhatTrain = forestTest(m, X);
 timetest= toc;
+% hehe
 
 % Look at classifier distribution for fun, to see what classifiers were
 % chosen at split nodes and how often
